@@ -6,6 +6,6 @@
 
 A brief case study of the cryptocurrency exchange CoinSpot.
 
-## Cointributors
+## Contributors
 
 Owen Harris
